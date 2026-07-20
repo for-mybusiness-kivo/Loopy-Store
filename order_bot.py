@@ -30,8 +30,8 @@ from telegram.ext import (
 )
 
 # ==== SOZLAMALAR (shu yerni to'ldiring) ====
-BOT_TOKEN = "BOT_TOKEN_BU_YERGA"      # @BotFather'dan olingan token
-ADMIN_ID = 123456789                   # Sizning Telegram ID'ingiz (@userinfobot orqali)
+BOT_TOKEN = "8783837012:AAGVxe749VFguX1VF-UigVA3sXqdHwontXY"      # @BotFather'dan olingan token
+ADMIN_ID = 8702721904                   # Sizning Telegram ID'ingiz (@userinfobot orqali)
 
 # Sotiladigan mahsulot toifalari - o'zingizga moslab o'zgartiring
 CATEGORIES = ["Aksessuarlar", "Uy buyumlari", "Fitnes", "Boshqa"]
