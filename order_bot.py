@@ -42,12 +42,12 @@ from telegram.ext import (
 )
 
 # ==== SOZLAMALAR (shu yerni to'ldiring) ====
-BOT_TOKEN = "BOT_TOKEN_BU_YERGA"
-ADMIN_ID = 123456789
+BOT_TOKEN = "8783837012:AAHmuGRkD-FdSLH9kEUWfAD42KFmiS9OHGc"
+ADMIN_ID = 8702721904
 
 CHANNEL_USERNAME = "@loopy_uz"
 CHANNEL_LINK = "https://t.me/loopy_uz"
-ADMIN_CONTACT_USERNAME = "@sizning_username"
+ADMIN_CONTACT_USERNAME = "@whoami_cllc"
 
 GOOGLE_CREDENTIALS_FILE = "credentials.json"
 GOOGLE_SHEET_ID = "1vZgYqmFgZ41W1VHUXcvLqduWRoZkdFsppi7xte8ZHY4"
